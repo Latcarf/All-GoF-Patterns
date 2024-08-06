@@ -1,10 +1,10 @@
 package Patterns.BehavioralPatterns.State;
 
 /**
- * State - позволяет объекту изменять свое поведение в зависимости от своего состояния.
- * Это достигается путем переключения между различными объектами-состояниями,
- * каждый из которых инкапсулирует конкретное поведение.
- * Извне создаётся впечатление, что изменился класс объекта.
+ * State - allows an object to change its behavior depending on its state.
+ * This is achieved by switching between different state objects,
+ * each of which encapsulates a specific behavior.
+ * From the outside, it appears that the class of the object has changed.
  */
 
 public class Main {

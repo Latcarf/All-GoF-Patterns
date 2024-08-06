@@ -1,7 +1,7 @@
 package Patterns.StructuralPatterns.Facade;
 
 /**
- * Facade - предоставляет простой (но урезанный) интерфейс к сложной системе объектов, библиотеке или фреймворку.
+ * Facade - provides a simple (but stripped-down) interface to a complex object system, library, or framework.
  */
 
 public class Main {

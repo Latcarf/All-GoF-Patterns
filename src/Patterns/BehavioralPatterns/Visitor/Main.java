@@ -3,9 +3,9 @@ package Patterns.BehavioralPatterns.Visitor;
 import Patterns.BehavioralPatterns.Visitor.ComputerPart.ComputerPart;
 
 /**
- * Visitor - позволяет добавлять новые операции к объектам без изменения классов этих объектов.
- * Это полезно, когда необходимо выполнить операции над различными элементами сложной структуры объектов,
- * например, дерева.
+ * Visitor - allows you to add new operations to objects without changing the classes of these objects.
+ * This is useful when you need to perform operations on various elements of a complex structure of objects,
+ * for example, a tree.
  */
 
 public class Main {

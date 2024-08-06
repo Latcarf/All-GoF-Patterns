@@ -1,8 +1,7 @@
 package Patterns.CreationalPatterns.Prototype;
 
 /**
- * Prototype - это порождающий паттерн проектирования, который позволяет копировать объекты,
- * не вдаваясь в подробности их реализации.
+ * Prototype is a creational design pattern that allows objects to be copied without having to go into the details of their implementation.
  */
 
 public class Main {

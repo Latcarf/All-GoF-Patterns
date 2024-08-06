@@ -1,9 +1,10 @@
 package Patterns.BehavioralPatterns.Command;
 
 /**
- * Command - превращает запросы в объекты, позволяя передавать их как аргументы при вызове методов,
- * ставить запросы в очередь, логировать их, а также поддерживать отмену операций.
+ * Command - turns requests into objects, allowing them to be passed as arguments when calling methods,
+ * queue requests, log them, and support cancellation of operations.
  */
+
 public class Main {
     public static void main(String[] args) {
         Light light = new Light();

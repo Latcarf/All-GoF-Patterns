@@ -4,8 +4,8 @@ import Patterns.CreationalPatterns.FactoryMethod.species.Animal;
 import Patterns.CreationalPatterns.FactoryMethod.species.Species;
 
 /**
- * Factory method - решает проблему создания объектов разного типа одним методом,
- * возвращаемый тип завист от логики описанной в методе.
+ * Factory method - solves the problem of creating objects of different types with one method,
+ * the return type depends on the logic described in the method.
  **/
 
 public class Main {

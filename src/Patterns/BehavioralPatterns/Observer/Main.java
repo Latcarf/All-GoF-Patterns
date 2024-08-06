@@ -1,11 +1,11 @@
 package Patterns.BehavioralPatterns.Observer;
 
 /**
- * Observer - предназначен для создания механизма подписки, позволяющего одним объектам (наблюдателям) следить
- * и реагировать на события, происходящие в других объектах (субъектах).
- * Этот паттерн широко используется для реализации распределенной системы событий в программном обеспечении,
- * особенно в разработке пользовательских интерфейсов, где изменения в одном объекте
- * требуют автоматического обновления в других объектах.
+ * Observer - designed to create a subscription mechanism that allows one objects (observers) to monitor
+ * and respond to events occurring in other objects (subjects).
+ * This pattern is widely used to implement a distributed event system in software,
+ * especially in user interface development, where changes in one object
+ * require automatic updates in other objects.
  */
 
 public class Main {

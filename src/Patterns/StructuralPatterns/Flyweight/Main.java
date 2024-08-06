@@ -1,9 +1,9 @@
 package Patterns.StructuralPatterns.Flyweight;
 
 /**
- * Flyweight - позволяет вместить бóльшее количество объектов в отведённую оперативную память.
- * Легковес экономит память, разделяя общее состояние объектов между собой,
- * вместо хранения одинаковых данных в каждом объекте.
+ * Flyweight - allows you to fit more objects into the allocated RAM.
+ * Flyweight saves memory by sharing the common state of objects among themselves,
+ * instead of storing the same data in each object.
  */
 
 public class Main {

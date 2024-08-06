@@ -1,9 +1,9 @@
 package Patterns.StructuralPatterns.Proxy;
 
 /**
- * Proxy - предоставляет заместителя или заполнитель для другого объекта, чтобы контролировать доступ к нему.
- * Это может быть полезно для реализации ленивой инициализации, контроля доступа, логирования, мониторинга,
- * управления сетевыми соединениями и т.д.
+ * Proxy - Provides a proxy or placeholder for another object to control access to it.
+ * This can be useful for implementing lazy initialization, access control, logging, monitoring,
+ * network connection management, etc.
  */
 
 public class Main {

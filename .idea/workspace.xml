@@ -4,7 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4311218-4c84-4e6b-be64-194a21721dfc" name="Changes" comment="" />
+    <list default="true" id="c4311218-4c84-4e6b-be64-194a21721dfc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/BehavioralPatterns/ChainOfResponsibility/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/BehavioralPatterns/ChainOfResponsibility/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/BehavioralPatterns/Command/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/BehavioralPatterns/Command/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/BehavioralPatterns/Interpreter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/BehavioralPatterns/Interpreter/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/BehavioralPatterns/Iterator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/BehavioralPatterns/Iterator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/BehavioralPatterns/Mediator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/BehavioralPatterns/Mediator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/BehavioralPatterns/Memento/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/BehavioralPatterns/Memento/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/BehavioralPatterns/Memento/Memento.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/BehavioralPatterns/Memento/Memento.drawio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/BehavioralPatterns/Observer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/BehavioralPatterns/Observer/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/BehavioralPatterns/State/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/BehavioralPatterns/State/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/BehavioralPatterns/Strategy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/BehavioralPatterns/Strategy/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/BehavioralPatterns/TemplateMethod/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/BehavioralPatterns/TemplateMethod/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/BehavioralPatterns/Visitor/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/BehavioralPatterns/Visitor/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/CreationalPatterns/AbstractFactory/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/CreationalPatterns/AbstractFactory/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/CreationalPatterns/Builder/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/CreationalPatterns/Builder/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/CreationalPatterns/FactoryMethod/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/CreationalPatterns/FactoryMethod/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/CreationalPatterns/Prototype/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/CreationalPatterns/Prototype/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/CreationalPatterns/Singleton/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/CreationalPatterns/Singleton/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/StructuralPatterns/Adapter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/StructuralPatterns/Adapter/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/StructuralPatterns/Bridge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/StructuralPatterns/Bridge/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/StructuralPatterns/Composite/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/StructuralPatterns/Composite/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/StructuralPatterns/Decorator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/StructuralPatterns/Decorator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/StructuralPatterns/Facade/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/StructuralPatterns/Facade/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/StructuralPatterns/Flyweight/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/StructuralPatterns/Flyweight/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/StructuralPatterns/Proxy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/StructuralPatterns/Proxy/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/StructuralPatterns/Proxy/Proxy.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/StructuralPatterns/Proxy/Proxy.drawio" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +49,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Latcarf"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Latcarf/All-GoF-Patterns.git",
+    "accountId": "973a5e33-146f-4661-8498-4b193b5343ca"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -31,23 +70,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Java/Projects/java_project/SpaceLab-1",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.uml",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Java/Projects/java_project/SpaceLab-1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.uml&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Patterns.CreationalPatterns.FactoryMethod" />
@@ -59,7 +98,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-17.0.9-corretto-17.0.9-4caba194b151-107bc6b7" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
       </set>
     </attachedChunks>
   </component>
@@ -81,6 +121,7 @@
       <workItem from="1709716377750" duration="22431000" />
       <workItem from="1709754027849" duration="2133000" />
       <workItem from="1709792627430" duration="17859000" />
+      <workItem from="1722942200055" duration="652000" />
     </task>
     <servers />
   </component>

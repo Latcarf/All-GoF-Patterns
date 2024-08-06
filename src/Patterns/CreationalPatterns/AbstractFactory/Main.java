@@ -4,8 +4,8 @@ import Patterns.CreationalPatterns.AbstractFactory.factory.AirplaneFactory;
 import Patterns.CreationalPatterns.AbstractFactory.purpose.PurposeEnum;
 
 /**
- * AbstractFactory — это порождающий паттерн проектирования, который позволяет создавать семейства связанных объектов,
- * не привязываясь к конкретным классам создаваемых объектов.
+ * AbstractFactory is a creational design pattern that allows you to create families of related objects without
+ * being tied to the specific classes of objects being created.
  **/
 
 public class Main {

@@ -1,9 +1,9 @@
 package Patterns.BehavioralPatterns.Interpreter;
 
 /**
- * Interpreter - используется для определения грамматического представления для языка и предоставления интерпретатора,
- * который использует это представление для интерпретации выражений в языке.
- * Часто применяется для разбора и выполнения простых языковых конструкций или для обработки часто встречающихся задач, связанных с интерпретацией.
+ * Interpreter - used to define a grammatical representation for a language and provide an interpreter
+ * that uses that representation to interpret expressions in the language.
+ * Often used to parse and execute simple language constructs or to handle common tasks involving interpretation.
  */
 
 public class Main {

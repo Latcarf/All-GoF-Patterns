@@ -6,9 +6,10 @@ import Patterns.CreationalPatterns.Builder.pizza.PizzaBuilder;
 import Patterns.CreationalPatterns.Builder.pizza.SpicyPizzaBuilder;
 
 /**
- * Builder - позволяет поэтапно создавать сложные объекты
- * с множеством полей и различной их комбинацией.
+ * Builder - allows you to create complex objects step by step
+ * with multiple fields and their various combinations.
  */
+
 public class Main {
     public static void main(String[] args) {
         Director director = new Director();

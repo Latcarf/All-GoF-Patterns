@@ -1,8 +1,8 @@
 package Patterns.BehavioralPatterns.Strategy;
 
 /**
- * Strategy - определяет семейство алгоритмов, инкапсулирует каждый из них и обеспечивает их взаимозаменяемость.
- * Это позволяет выбирать алгоритм независимо от клиентских данных во время выполнения программы.
+ * Strategy - defines a family of algorithms, encapsulates each of them, and ensures their interchangeability.
+ * This allows the algorithm to be selected independently of client data during program execution.
  */
 
 public class Main {

@@ -1,8 +1,8 @@
 package Patterns.BehavioralPatterns.Iterator;
 
 /**
- * Iterator - даёт возможность последовательно обходить элементы составных объектов,
- * не раскрывая их внутреннего представления.
+ * Iterator - allows you to sequentially iterate over elements of composite objects,
+ * without revealing their internal representation.
  */
 
 public class Main {

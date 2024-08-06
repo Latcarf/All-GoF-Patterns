@@ -1,8 +1,8 @@
 package Patterns.BehavioralPatterns.TemplateMethod;
 
 /**
- * Template Method - определяет скелет алгоритма, перекладывая ответственность за некоторые его шаги на подклассы.
- * Паттерн позволяет подклассам переопределять шаги алгоритма, не меняя его общей структуры.
+ * Template Method - defines the skeleton of the algorithm, shifting responsibility for some of its steps to subclasses.
+ * The pattern allows subclasses to redefine the steps of the algorithm without changing its overall structure.
  */
 
 public class Main {

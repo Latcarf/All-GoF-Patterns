@@ -1,8 +1,8 @@
 package Patterns.StructuralPatterns.Composite;
 
 /**
- * Composite — позволяет сгруппировать множество объектов в древовидную структуру,
- * а затем работать с ней так, как будто это единичный объект.
+ * Composite - allows you to group multiple objects into a tree structure,
+ * and then work with it as if it were a single object.
  */
 
 public class Main {

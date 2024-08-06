@@ -1,9 +1,9 @@
 package Patterns.BehavioralPatterns.Mediator;
 
 /**
- * Mediator -  используется для уменьшения связности множества классов между собой,
- * путём перемещения этих связей в один класс-посредник. Это позволяет упростить взаимодействие между объектами,
- * делая их более независимыми и упрощая их повторное использование.
+ * Mediator - used to reduce the coupling of multiple classes between themselves,
+ * by moving these connections into a single mediator class. This allows for simpler interactions between objects,
+ * making them more independent and easier to reuse.
  */
 
 public class Main {

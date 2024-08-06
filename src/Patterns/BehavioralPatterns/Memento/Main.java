@@ -1,9 +1,9 @@
 package Patterns.BehavioralPatterns.Memento;
 
 /**
- * Memento - позволяет сохранять и восстанавливать предыдущее состояние объекта без раскрытия деталей его реализации.
- * Это особенно полезно для реализации функций отмены операций или ведения журнала изменений объекта.
- * Паттерн состоит из трех основных компонентов: Создателя (Originator), Хранителя (Caretaker) и Снимка (Memento).
+ * Memento - allows you to save and restore the previous state of an object without revealing the details of its implementation.
+ * This is especially useful for implementing undo or change logging functions for an object.
+ * The pattern consists of three main components: Originator, Caretaker, and Memento.
  */
 
 public class Main {

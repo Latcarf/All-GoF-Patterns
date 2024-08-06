@@ -1,10 +1,10 @@
 package Patterns.BehavioralPatterns.ChainOfResponsibility;
 
 /**
- * Chain of Responsibility - позволяет передавать запросы вдоль цепочки обработчиков.
- * При этом каждый последующий обработчик решает, может ли он обработать запрос
- * или его следует передать дальше по цепочке. Этот паттерн часто используется для
- * обработки различных типов запросов разными способами, не привязывая отправителя запроса к конкретному получателю.
+ * Chain of Responsibility - allows requests to be passed along a chain of handlers.
+ * Each subsequent handler decides whether it can handle the request
+ * or whether it should be passed further down the chain. This pattern is often used to
+ * handle different types of requests in different ways, without tying the sender of the request to a specific recipient.
  */
 
 public class Main {
